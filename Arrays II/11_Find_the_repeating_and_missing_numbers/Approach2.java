@@ -1,5 +1,7 @@
-public class Approach2 {
-    // function to find the right most bit of a number;
+class Solution {
+
+  // function to find the right most bit of a number;
+
   public static int find(int n) {
     int i = 0;
     while (n > 0) {
@@ -8,7 +10,8 @@ public class Approach2 {
     }
     return i;
   }
-    // function to check that nth bit of a number is set or not
+
+  // function to check that nth bit of a number is set or not
   public static int checkNthBit(int num, int n) {
     num = num >> n - 1;
     return num & 1;

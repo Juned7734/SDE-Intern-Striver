@@ -1,4 +1,4 @@
-public class Approach1 {
+class Solution {
 
   public List<Integer> repeatedAndMissingNumber(int[] nums) {
     byte[] b = new byte[nums.length + 1];

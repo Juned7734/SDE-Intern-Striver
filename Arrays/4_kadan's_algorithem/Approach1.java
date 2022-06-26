@@ -1,5 +1,5 @@
 
-public class Approach1 {
+class Solution {
   public int maxSubArray(int[] nums) {
     int sum = nums[0];
     int max = nums[0];

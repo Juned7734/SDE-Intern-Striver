@@ -1,4 +1,4 @@
-class Approach1 {
+class Solution {
 
   public static long getInversions(long arr[], int n) {
     // Write your code here.

@@ -1,5 +1,4 @@
-public class Approach1 {
-
+class Solution {
   public void nextPermutation(int[] arr) {
     int first = -1;
     int last = -1;

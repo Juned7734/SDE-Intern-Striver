@@ -1,5 +1,5 @@
-class Approach2 {
-
+class Solution {
+  
   public static  merge(long arr[],long temp[],int left,int mid,int right) 
   {
     int inv_count = 0;

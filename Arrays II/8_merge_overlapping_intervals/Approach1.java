@@ -1,3 +1,2 @@
-public class Approach1 {
-
+class Solution {
 }

@@ -1,4 +1,4 @@
-public class Approach3 {
+class Solution {
 
   class Solution {
 

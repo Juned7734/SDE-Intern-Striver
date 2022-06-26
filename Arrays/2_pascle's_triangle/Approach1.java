@@ -1,7 +1,6 @@
 import java.util.*;
 
-public class Approach1 {
-
+class Solution {
   public List<List<Integer>> generate(int numRows) {
     List<List<Integer>> mainLi = new ArrayList<List<Integer>>();
     List<Integer> row, pre = null;

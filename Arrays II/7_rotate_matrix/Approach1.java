@@ -1,5 +1,4 @@
-public class Approach1 {
-
+class Solution {
   public void rotate(int[][] matrix) {
     int n = matrix.length;
     int[][] newMat = new int[n][n];

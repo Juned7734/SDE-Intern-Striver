@@ -1,4 +1,4 @@
-public class Approach2 {
+class Solution {
 
   public void setZeroes(int[][] matrix) {
     int[] row = new int[matrix.length];

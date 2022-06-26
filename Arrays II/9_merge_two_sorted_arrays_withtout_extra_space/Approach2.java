@@ -1,5 +1,4 @@
-public class Approach2 {
-
+class Solution {
   public static void merge(long arr1[], long arr2[], int n, int m) {
     // code here
     // Input:
